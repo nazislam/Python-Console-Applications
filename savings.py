@@ -5,9 +5,6 @@
 # How many years it will take to generate certain amount of money.
 
 
-
-#---------------------------
-
 def main():
     initial = eval(input('How much money to start? '))
     try:
