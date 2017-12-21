@@ -12,4 +12,7 @@ A simple Python program that takes a list of tuple (each tuple comprises a name 
 A simple Python programs that calculates how many years it will take to generate certain amount of money. It takes input from the user and prints out the amount of money made in each year.
 
 ### Car
-A simple Python program that uses OOP (Object Oriented Programming) convention to create two Car objects and checks which car wins the race. 
+A simple Python program that uses OOP (Object Oriented Programming) convention to create two *Car* objects and checks which car wins the race. 
+
+### Area Of Rectangle
+A simple program that takes a constructor to create a *Rectangle* object and calculates its area.
